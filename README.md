@@ -1,5 +1,4 @@
-# EKART ①
-**[Project Demo Video](https://tiny.cc/EKART)**
+# EKART 
 
 This Ecommerce project is built using Spring, Hibernate ORM and Spring security, consisting of basic funtionality like
 - New user registrations
